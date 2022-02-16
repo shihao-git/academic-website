@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Candidate of Probability theory and Mathematical statistics
+role: PhD Candidate of Probability theory and Mathematical statistics
 
 # Organizations/Affiliations
 organizations:
